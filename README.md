@@ -14,7 +14,9 @@ I am a Systems Analysis and Development student.
 * 🧠  I'm learning English and Spanish
 * ⚡  I love to code and create new things, I really enjoy discovering new technologies and diving deep into problem solving.
 
-### soft skills
+### Soft Skills
+
+* 🧠 Projetos ágeis com SCRUM
 
 
 
