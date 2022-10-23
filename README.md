@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <p align="left">
 
-<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="50" height="50" alt="C-Sharp" /></a>
+<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="50" height="30" alt="C-Sharp" /></a>
 
 
 
