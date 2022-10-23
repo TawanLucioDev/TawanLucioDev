@@ -21,8 +21,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <p align="left">
 
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="64" height="30" alt="C-Sharp" /></a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="64" height="30" alt=".Net" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="94" height="30" alt="C-Sharp" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" width="94" height="30" alt=".Net" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="36" alt="React" /></a>
@@ -49,7 +49,3 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="http://www.github.com/peguimasid"><img src="https://activity-graph.herokuapp.com/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
